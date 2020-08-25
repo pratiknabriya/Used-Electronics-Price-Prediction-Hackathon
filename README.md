@@ -17,7 +17,7 @@ Test.csv – 997 observations.
 
 The leaderboard is evaluated using RMSLE for the participant’s submission.
 
-For more info and data set visit: https://www.machinehack.com/course/used-electronics-price-prediction-weekend-hackathon-7/
+For more info and data visit: https://www.machinehack.com/course/used-electronics-price-prediction-weekend-hackathon-7/
 
 ### Leaderboard 
 Rank: 42 (RMSLE Score: 0.54048)
